@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
