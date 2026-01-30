@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
+| [2469-convert-the-temperature](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
