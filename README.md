@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
