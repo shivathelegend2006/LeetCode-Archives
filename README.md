@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2469-convert-the-temperature) |
+| [2651-calculate-delayed-arrival-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
