@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
