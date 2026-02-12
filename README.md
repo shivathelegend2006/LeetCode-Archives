@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
+| [2119-a-number-after-a-double-reversal](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2651-calculate-delayed-arrival-time) |
