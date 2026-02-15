@@ -1,0 +1,30 @@
+int max(int a, int b){
+    if (a>b)
+        return a;
+    else
+        return b;
+}
+int candy(int* ratings, int ratingsSize) {
+    int n = ratingsSize;
+    int count = 0;
+    int left[n];
+    left[0] = 1;
+    for(int i =1;i<n;i++){ //left
+        if (ratings[i]>ratings[i-1])
+            left[i] = left[i-1] + 1;
+        else 
+            left[i] = 1;
+    }
+    int right[n];
+    right[n-1] = 1;
+    for(int i=n-2;i>=0;i--){ //right
+        if(ratings[i]>ratings[i+1])
+            right[i] = right[i+1] + 1;
+        else 
+            right[i] = 1;
+    }
+    for(int i=0;i<n;i++){
+        count += max(left[i],right[i]);
+    }
+    return count;
+}
