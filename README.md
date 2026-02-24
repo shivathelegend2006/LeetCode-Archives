@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
