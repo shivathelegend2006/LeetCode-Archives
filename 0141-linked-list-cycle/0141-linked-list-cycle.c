@@ -6,14 +6,12 @@
  * };
  */
 bool hasCycle(struct ListNode *head) {
-    struct ListNode *step = head;
-    struct ListNode *double_step = head;
-
-    while(double_step != NULL && double_step->next != NULL){
-        step = step->next;
-        double_step = double_step->next->next;
-        if (step == double_step)
+    struct ListNode *curr = head;
+    while(curr!=NULL){
+        if(curr->val == 100001)
             return true;
+        curr->val = 100001;
+        curr = curr->next;
     }
     return false;
 }
