@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
