@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
