@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0198-house-robber) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
@@ -250,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 ## Union-Find
 |  |
 | ------- |
