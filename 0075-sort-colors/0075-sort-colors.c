@@ -1,11 +1,23 @@
+void swap(int *a, int *b){
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
 void sortColors(int* nums, int numsSize) {
-    for(int i=0;i<numsSize-1;i++){
-        for(int j=0;j<numsSize-i-1;j++){
-            if(nums[j] > nums[j+1]){
-                int temp = nums[j];
-                nums[j] = nums[j+1];
-                nums[j+1] = temp;
-            }
+//using the dutch national flag algorithm
+    int high = numsSize -1, low = 0, mid = 0;
+    while(mid <= high){
+        int n = nums[mid];
+        if(n == 0){
+            swap(&nums[mid], &nums[low]);
+            mid++;
+            low++;
         }
+        else if (n==2){
+            swap(&nums[mid], &nums[high]);
+            high--;
+        }
+        else mid++;
     }
 }
