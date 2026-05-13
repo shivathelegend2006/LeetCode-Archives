@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
