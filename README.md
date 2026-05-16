@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
+| [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
 | ------- |
