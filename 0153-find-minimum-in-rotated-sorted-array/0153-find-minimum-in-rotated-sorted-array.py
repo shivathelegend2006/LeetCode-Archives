@@ -4,9 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        x = 0
-        for n in range(len(nums)):
-            if nums[x] > nums[n]:
-                x = n
+        l =0
+        r = len(nums) - 1
+        while l < r:
+            m = (l+r)//2
 
-        return nums[x]
+            if nums[m] > nums[r]:
+                l = m +1
+
+            else:
+                r = m
+        return nums[l]
