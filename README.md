@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
