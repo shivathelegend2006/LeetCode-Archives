@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0226-invert-binary-tree) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0200-number-of-islands) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0226-invert-binary-tree) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
