@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
