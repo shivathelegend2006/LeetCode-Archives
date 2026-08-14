@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
@@ -460,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
