@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0703-kth-largest-element-in-a-stream) |
