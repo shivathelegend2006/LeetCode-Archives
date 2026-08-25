@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -506,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
