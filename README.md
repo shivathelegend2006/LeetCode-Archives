@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
@@ -360,10 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
