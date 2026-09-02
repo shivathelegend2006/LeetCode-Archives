@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -550,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
