@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
+| [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
+| [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
