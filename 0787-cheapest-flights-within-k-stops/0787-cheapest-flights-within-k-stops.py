@@ -27,3 +27,10 @@ class Solution:
         if min_cost[dst] == float('inf'):
             return -1
         return min_cost[dst]
+
+        '''
+        insane questions, you would thn djikstra immediatly but it is explcity asked minimum cost with k stops at most, dj algo does not care about that 
+        so we need to use bfs, but with a twsit , the twist is thatr we must rmeber two rules
+        1. only add to the queue if th cost is lesser than the exisitng path
+        2. keep trakc of the number of stops made if it exceeds k stop immediatly 
+        '''
