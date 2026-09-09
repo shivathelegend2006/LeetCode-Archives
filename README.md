@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
@@ -586,4 +589,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
