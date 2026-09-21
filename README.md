@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0217-contains-duplicate) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0206-reverse-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0211-design-add-and-search-words-data-structure) |
