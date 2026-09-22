@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0572-subtree-of-another-tree) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0310-minimum-height-trees) |
 ## Design
 |  |
 | ------- |
