@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [0981-time-based-key-value-store](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0981-time-based-key-value-store) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -471,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
@@ -515,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
 ## Backtracking
 |  |
