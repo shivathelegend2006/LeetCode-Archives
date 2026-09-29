@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
