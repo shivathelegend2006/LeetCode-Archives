@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0155-min-stack) |
