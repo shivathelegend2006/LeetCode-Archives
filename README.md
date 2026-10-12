@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1882-process-tasks-using-servers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1882-process-tasks-using-servers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
+| [1882-process-tasks-using-servers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1882-process-tasks-using-servers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
