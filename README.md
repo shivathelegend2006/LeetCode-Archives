@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0242-valid-anagram) |
+| [0306-additive-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0131-palindrome-partitioning) |
+| [0306-additive-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
