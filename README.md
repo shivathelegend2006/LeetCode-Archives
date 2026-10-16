@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0542-01-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
 ## Greedy
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0306-additive-number) |
+| [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
