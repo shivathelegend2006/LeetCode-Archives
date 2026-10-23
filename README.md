@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
