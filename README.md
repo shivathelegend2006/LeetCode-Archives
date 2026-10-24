@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
+| [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2469-convert-the-temperature) |
 | [2651-calculate-delayed-arrival-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2651-calculate-delayed-arrival-time) |
