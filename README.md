@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2119-a-number-after-a-double-reversal) |
 | [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2413-smallest-even-multiple) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1882-process-tasks-using-servers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1882-process-tasks-using-servers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
 |  |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -659,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0238-product-of-array-except-self) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Data Stream
 |  |
 | ------- |
