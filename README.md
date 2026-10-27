@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
 ## Math
 |  |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
