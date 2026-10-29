@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0319-bulb-switcher) |
+| [0367-valid-perfect-square](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0981-time-based-key-value-store) |
 ## Stack
