@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0763-partition-labels) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0424-longest-repeating-character-replacement) |
+| [0541-reverse-string-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0678-valid-parenthesis-string) |
