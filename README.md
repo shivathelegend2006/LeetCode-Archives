@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0518-coin-change-ii) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0846-hand-of-straights) |
