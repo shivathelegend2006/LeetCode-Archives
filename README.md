@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0621-task-scheduler) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -768,4 +773,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
