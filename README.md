@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 ## Math
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
