@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 ## Sliding Window
 |  |
 | ------- |
