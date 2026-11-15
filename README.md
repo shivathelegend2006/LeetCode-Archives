@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0973-k-closest-points-to-origin) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1688-count-of-matches-in-tournament) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2119-a-number-after-a-double-reversal](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2119-a-number-after-a-double-reversal) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1386-cinema-seat-allocation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1584-min-cost-to-connect-all-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -697,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Data Stream
