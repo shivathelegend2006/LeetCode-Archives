@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Math
