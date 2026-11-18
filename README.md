@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -755,11 +757,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
