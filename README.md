@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2409-count-days-spent-together](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Math
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1386-cinema-seat-allocation) |
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
 |  |
 | ------- |
