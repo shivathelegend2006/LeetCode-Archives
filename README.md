@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3106-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3106-lexicographically-smallest-string-after-operations-with-constraint) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Math
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2013-detect-squares) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
