@@ -1,15 +1,19 @@
-import math
+
 class ProductOfNumbers:
 
     def __init__(self):
-        self.nums = []
-
+        self.nums = [1]
 
     def add(self, num: int) -> None:
-        self.nums.append(num)
+        if num == 0:
+            self.nums = [1]
+        else:
+            self.nums.append(self.nums[-1]*num)
 
     def getProduct(self, k: int) -> int:
-        return math.prod(self.nums[-k:])
+        if k >= len(self.nums): return 0
+
+        return self.nums[-1] // self.nums[-1 - k]
 
 
 
