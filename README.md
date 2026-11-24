@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/0994-rotting-oranges) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
