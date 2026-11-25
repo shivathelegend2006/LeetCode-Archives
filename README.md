@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -831,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/shivathelegend2006/LeetCode-Archives/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 <!---LeetCode Topics End-->
